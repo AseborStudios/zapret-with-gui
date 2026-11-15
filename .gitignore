@@ -5,4 +5,7 @@
 /lists/list-exclude-user.txt
 
 .vscode/
-/build/
+/build/".vs/" 
+"bin/" 
+"obj/" 
+"Publish/" 

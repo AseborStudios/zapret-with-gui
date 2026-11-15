@@ -1,0 +1,7 @@
+F:\zapret-gui\zapret-with-gui\Publish\ZapretGUI.pdb
+F:\zapret-gui\zapret-with-gui\Publish\D3DCompiler_47_cor3.dll
+F:\zapret-gui\zapret-with-gui\Publish\PenImc_cor3.dll
+F:\zapret-gui\zapret-with-gui\Publish\PresentationNative_cor3.dll
+F:\zapret-gui\zapret-with-gui\Publish\vcruntime140_cor3.dll
+F:\zapret-gui\zapret-with-gui\Publish\wpfgfx_cor3.dll
+F:\zapret-gui\zapret-with-gui\Publish\ZapretGUI.exe

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asego\\source\\repos\\ZapretGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B58CB37-E62E-42F1-BCDE-674466E440A5}|ZapretGUI\\ZapretGUI.csproj|c:\\users\\asego\\source\\repos\\zapretgui\\zapretgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B58CB37-E62E-42F1-BCDE-674466E440A5}|ZapretGUI\\ZapretGUI.csproj|solutionrelative:zapretgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B58CB37-E62E-42F1-BCDE-674466E440A5}|ZapretGUI\\ZapretGUI.csproj|c:\\users\\asego\\source\\repos\\zapretgui\\zapretgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B58CB37-E62E-42F1-BCDE-674466E440A5}|ZapretGUI\\ZapretGUI.csproj|solutionrelative:zapretgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B58CB37-E62E-42F1-BCDE-674466E440A5}|ZapretGUI\\ZapretGUI.csproj|c:\\users\\asego\\source\\repos\\zapretgui\\zapretgui\\zapretgui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B58CB37-E62E-42F1-BCDE-674466E440A5}|ZapretGUI\\ZapretGUI.csproj|solutionrelative:zapretgui\\zapretgui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B58CB37-E62E-42F1-BCDE-674466E440A5}|ZapretGUI\\ZapretGUI.csproj|c:\\users\\asego\\source\\repos\\zapretgui\\zapretgui\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0B58CB37-E62E-42F1-BCDE-674466E440A5}|ZapretGUI\\ZapretGUI.csproj|solutionrelative:zapretgui\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B58CB37-E62E-42F1-BCDE-674466E440A5}|ZapretGUI\\ZapretGUI.csproj|c:\\users\\asego\\source\\repos\\zapretgui\\zapretgui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B58CB37-E62E-42F1-BCDE-674466E440A5}|ZapretGUI\\ZapretGUI.csproj|solutionrelative:zapretgui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\asego\\source\\repos\\ZapretGUI\\ZapretGUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ZapretGUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\asego\\source\\repos\\ZapretGUI\\ZapretGUI\\App.xaml.cs",
+              "RelativeToolTip": "ZapretGUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T10:24:16.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZapretGUI.csproj",
+              "DocumentMoniker": "C:\\Users\\asego\\source\\repos\\ZapretGUI\\ZapretGUI\\ZapretGUI.csproj",
+              "RelativeDocumentMoniker": "ZapretGUI\\ZapretGUI.csproj",
+              "ToolTip": "C:\\Users\\asego\\source\\repos\\ZapretGUI\\ZapretGUI\\ZapretGUI.csproj",
+              "RelativeToolTip": "ZapretGUI\\ZapretGUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-15T10:22:47.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\asego\\source\\repos\\ZapretGUI\\ZapretGUI\\app.manifest",
+              "RelativeDocumentMoniker": "ZapretGUI\\app.manifest",
+              "ToolTip": "C:\\Users\\asego\\source\\repos\\ZapretGUI\\ZapretGUI\\app.manifest",
+              "RelativeToolTip": "ZapretGUI\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2026-11-14T11:28:48.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\asego\\source\\repos\\ZapretGUI\\ZapretGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ZapretGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\asego\\source\\repos\\ZapretGUI\\ZapretGUI\\MainWindow.xaml",
+              "RelativeToolTip": "ZapretGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-14T10:53:34.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\asego\\source\\repos\\ZapretGUI\\ZapretGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ZapretGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\asego\\source\\repos\\ZapretGUI\\ZapretGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ZapretGUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAvwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T10:53:32.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
