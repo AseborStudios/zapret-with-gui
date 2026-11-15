@@ -9,3 +9,9 @@
 "bin/" 
 "obj/" 
 "Publish/" 
+".vs/" 
+
+.vs/
+ZapretGUI/bin/
+ZapretGUI/obj/
+Publish/
